@@ -1,5 +1,16 @@
 ### ⚡Passionate ✨Humble :man_technologist: Full-stack Developer
 
+## ▶️ Skills
+# - Programming: Java, Javascript, HTML, CSS
+# - Backend-framework: Express.js, Spring Boot
+# - Frontend-framework: React.js
+# - Database: MYSQL, MongoDB, Firestore
+# - Knowledge: AWS(ECS, EC2, SES, S3, etc.), Firebase, Git, etc
+
+## ▶️ Experience
+# - SAIT IT course (Major in Software development) [2019 Sep - 2021 Apr]
+# - Freelance full stack developer [2020 Oct -2021 Nov]
+# - Software developer in Shyftbase [2021 Dec - Now]
 <!--
 **MinhoChoi-a/MinhoChoi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
