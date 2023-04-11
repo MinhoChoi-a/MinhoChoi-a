@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡Passionate ✨Humble :man_technologist: Full-stack Developer
 
 <!--
 **MinhoChoi-a/MinhoChoi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
