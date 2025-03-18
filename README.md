@@ -3,16 +3,14 @@
 --------------------------------
 
 #### ▶️ Skills
-- Programming: Java, Javascript, HTML, CSS
-- Backend-framework: Express.js, Spring Boot
-- Frontend-framework: React.js
-- Database: MYSQL, MongoDB, Firestore
-- Knowledge: AWS(ECS, EC2, SES, S3, etc.), Firebase, Git, etc
+- Programming: Javascript, Java, HTML, CSS
+- Backend-framework: Node.js, Spring Boot
+- Frontend-framework: React.js, Vue(v2)
+- Database: Firestore, MYSQL, MongoDB
+- Knowledge: AWS(ECS, EC2, SES, S3, etc.), GCP, Firebase, Git, etc
 
 #### ▶️ Experience
-- SAIT IT course (Major in Software development) [2019 Sep - 2021 Apr]
-- Freelance full stack developer [2020 Oct -2021 Nov]
-- Software developer in Shyftbase [2021 Dec - Now]
+- Full stack developer in Shyftbase [2021 Dec - Now]
 
 #### :e-mail: minhocalgary@gmail.com
 <!--
